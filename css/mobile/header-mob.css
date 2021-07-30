@@ -1,0 +1,41 @@
+@media (max-width: 767px) {
+  
+  /* Container Header */
+
+  .first_menu, .second_menu  {
+    width: 21.8rem;
+    padding-top: 2.5rem;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: space-around;
+  }
+
+  .second_menu {
+    padding-top: 1rem;
+  }
+
+
+  /* Estilo Header */
+
+  .first_menu a,
+  .second_menu a {
+    flex: 1;
+    display: inline-block;
+    margin-bottom: 1.25rem;
+    color: white;
+    flex-basis: 0;
+    font-family: acumin-pro, sans-serif;
+    font-size: 0.9rem;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .first_menu img,
+  .second_menu img {
+    display: inline-block;
+    margin-left: 0.3125rem;
+  }
+
+}

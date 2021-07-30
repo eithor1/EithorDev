@@ -1,0 +1,123 @@
+@media only screen and (min-width: 992px) and (max-width: 1280px) {
+
+  
+    /* Parterns */
+    
+    .partners .title {
+      text-align: center;
+      flex-basis: 100%;
+    }
+  
+  
+    .partners-layout {
+      position: relative;
+      height: 25.625rem;
+      margin-bottom: 2.1875rem;
+    }
+  
+  
+    .partners-layout img {
+      position: relative;
+    }
+  
+
+  
+    .partners-description, .partners-description-eithor, .partners-description-origamid {
+      display: flex;
+      margin: 2.5rem 0 6.25rem 0;
+    }
+  
+    .partners-description-origamid {
+      margin-bottom: 3.75rem;
+    }
+  
+    /* Partners Propriedades Gerais */
+  
+  
+  
+    .partners-description h2, .partners-description p, .partners-description a, .partners-description-eithor h2, .partners-description-eithor p, .partners-description-eithor a , .partners-description-origamid h2, .partners-description-origamid p, .partners-description-origamid a{
+      position: absolute;
+    }
+  
+    /* Partners Titulo */
+  
+    .partners-description h2,   .partners-description-eithor h2, .partners-description-origamid h2, .partners-text{ 
+      top: 14.6875rem;
+      right: 5.4rem;
+      color: white;
+      font-size: 1.5625rem;
+      font-family: acumin-pro, sans-serif;
+      font-weight: 700;
+      font-style: normal;
+    }
+  
+    .partners-description-eithor h2 {
+      right: 4.5rem;
+    }
+  
+    .partners-description-origamid h2 {
+      right: 7rem;
+    }
+  
+    /* Partners Descricao */
+  
+    .partners-description p, .partners-description-eithor p, .partners-description-origamid p {
+      top: 16.5625rem; 
+      font-size: 1.2rem;
+      right: 9.2rem;
+      font-family: 'Quicksand', sans-serif;
+      color: white;
+      font-weight: 700;
+    }
+
+
+
+  
+    .partners-description-eithor p {
+      right: 8rem;
+    }
+  
+    .partners-description-origamid p  {
+      right: 8.7rem;
+    }
+  
+    .partners-description p span, .partners-description-eithor p span, .partners-description-origamid p span {
+      color: #00D6F4;
+    }
+    
+    p.partners-text, p.partners-text-eithor, p.partners-text-ori  {
+      font-size: 1.2rem;
+      text-align: center;
+      font-weight: 400;
+      top: 19.375rem;
+      right: 6.3rem;
+    }
+
+    p.partners-text-eithor {
+      right: 7rem;
+    }
+
+    p.partners-text-ori {
+      right: 5.5rem;
+    }
+
+    /* Partners Botão */
+  
+    .button-partners {
+      width: 8.125rem;
+      height: 2.5rem;
+      background-color: #4390ED ;
+      border: 1px solid #00D6F4;
+      border-radius: 1.25rem;
+      display: inline-block;
+      top: 23.75rem;
+      right: 8.7rem;
+      font-family: 'Quicksand', sans-serif;
+      font-size: 1rem;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      line-height: 2.5rem;
+      color: white;
+    }
+  }

@@ -1,0 +1,81 @@
+@media only screen and (min-width: 992px) and (max-width: 1280px){
+  
+    /* Ordem Intro */
+  
+    .video {
+      position: relative;
+      padding-bottom: 2rem;
+      order: 2;
+    }
+
+
+    .title_channel {
+      font-family: acumin-pro, sans-serif;
+      text-transform: uppercase;
+      color: #32ACF2;
+      font-size: 2rem;
+      text-align: center; 
+      font-family: acumin-pro, sans-serif;
+      font-weight: 700;
+      font-style: normal;
+    }
+
+    .description_channel {
+      order: 1;
+      margin: 0;
+      width: 28.125rem;
+      align-self: center;
+    }
+  
+    .about_channel p, .about_me p {
+      color: white;
+      font-size: .9rem;
+      word-spacing: 0.2rem;
+      margin-bottom: 1.25rem;
+      font-family: 'Quicksand', sans-serif;
+    }
+
+    .about_channel p {
+      margin-top: 0.625rem;
+    }
+
+
+    .about_me span {
+      color: #00D6F4;
+    }
+  
+    /* Imagens Intro */
+  
+    .character {
+      width: 29.375rem;
+      height: 24.625rem;
+    }
+  
+    .logo {
+      width: 19.375rem;
+      height: 15.8125rem;
+      align-self: center;
+    }
+  
+    /* Contorno */
+  
+    .contorno1 {
+      position: absolute;
+      top: -0.625rem;
+      /* top: -0.625rem; */
+      left: -0.625rem;
+      /* left: -0.25rem; */
+      width: 8.75rem;
+      height: 8.75rem;
+    }
+  
+    .contorno2 {
+      position: absolute;
+      /* top: 12rem; */
+      top: 6.0625rem;
+      /* right: -0.9375rem; */
+      right: -0.5rem;
+      width: 8.75rem;
+      height: 8.75rem;
+    }
+  }

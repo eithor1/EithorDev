@@ -1,0 +1,24 @@
+@media only screen and (min-width: 768px) and (max-width: 992px)  {
+  
+  /* Twitch */
+
+  .twitch {
+    background-image: url(/img/gerais/tablet/thor-tablet.png);
+    background-size: cover;
+    background-repeat: repeat;
+    width: 100%;
+  }
+
+  .aovivo {
+    align-self: flex-start;
+    width: 15.625rem;
+    height: 9.75rem;
+  }
+
+  .twitch-thumb {
+    padding-top: 1.25rem;
+    align-self: center;
+    width: 28.125rem;
+    height: 24.625rem;
+  }
+}

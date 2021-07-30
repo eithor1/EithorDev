@@ -1,0 +1,20 @@
+
+/* Gerais */
+
+.bg {
+  background-image: url(../img/gerais/bg.jpg);
+  background-size: cover;
+}
+
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+/* Youtube */
+
+.thumb-youtube {
+  padding-top: 1.5625rem;
+  justify-content: space-around; 
+}
+

@@ -1,0 +1,33 @@
+@media only screen and (min-width: 1281px)  and (max-width: 1999px){
+  
+  header {
+    margin: 0 auto;
+  }
+
+  .menu_tablet {
+    width: 42.5rem;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: space-around;
+    padding: 2.5rem 1rem 1rem 1rem;
+  }
+
+  .menu_tablet a {
+    flex: 1;
+    display: inline-block;
+    margin-bottom: 1.25rem;
+    color: white;
+    flex-basis: 0;
+    font-family: acumin-pro, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .menu_tablet img {
+    display: inline-block;
+    margin-left: 0.3125rem;
+  }
+}

@@ -1,0 +1,114 @@
+@media only screen and (min-width: 768px) and (max-width: 992px)  {
+  
+  /* Parterns */
+  
+  .partners {
+    
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .partners .title {
+    text-align: center;
+    flex-basis: 100%;
+  }
+
+
+  .partners-layout {
+    position: relative;
+    height: 20.75rem;
+    margin-bottom: 2.1875rem;
+  }
+
+
+  .partners-layout img {
+    width: 21.25rem;
+    height: 20.75rem;
+    position: relative;
+    
+  }
+
+  .partners-text {
+    display: none;
+  }
+
+  .partners-description, .partners-description-eithor, .partners-description-origamid {
+    display: flex;
+    margin: 2.5rem 0 6.25rem 0;
+  }
+
+  .partners-description-origamid {
+    margin-bottom: 3.75rem;
+  }
+
+  /* Partners Propriedades Gerais */
+
+
+
+  .partners-description h2, .partners-description p, .partners-description a, .partners-description-eithor h2, .partners-description-eithor p, .partners-description-eithor a , .partners-description-origamid h2, .partners-description-origamid p, .partners-description-origamid a{
+    position: absolute;
+  }
+
+  /* Partners Titulo */
+
+  .partners-description h2,   .partners-description-eithor h2, .partners-description-origamid h2{ 
+    top: 13.125rem;
+    right: 4.375rem;
+    color: white;
+    font-size: 1.25rem;
+    font-family: acumin-pro, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  .partners-description-eithor h2 {
+    right: 3.75rem;
+  }
+
+  .partners-description-origamid h2 {
+    right: 5.9375rem;
+  }
+
+  /* Partners Descricao */
+
+  .partners-description p, .partners-description-eithor p, .partners-description-origamid p {
+    top: 14.6875rem; 
+    font-size: 1rem;
+    right: 7.8125rem;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+  }
+
+  .partners-description-eithor p {
+    right: 6.25rem;
+  }
+
+  .partners-description-origamid p  {
+    right: 7.1875rem;
+  }
+
+  .partners-description p span, .partners-description-eithor p span, .partners-description-origamid p span {
+    color: #00D6F4;
+  }
+  
+  /* Partners Botão */
+
+  .button-partners {
+    width: 6.875rem;
+    height: 2.1875rem;
+    background-color: #4390ED ;
+    border: 1px solid #00D6F4;
+    border-radius: 1.25rem;
+    display: inline-block;
+    top: 18.125rem;
+    right: 7.1875rem;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 0.875rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    line-height: 2.1875rem;
+    color: white;
+  }
+}

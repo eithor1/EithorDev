@@ -1,0 +1,193 @@
+@media only screen and (min-width: 1281px) and (max-width: 1999px) {
+
+    body {
+      width: 100%;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: column;
+    }
+  
+  
+    /* Container Geral */
+  
+    .about_channel, .thumb-youtube, .twitch, .partners, .sorteios, .footer  {
+      display: flex;
+      flex-wrap: wrap;
+      padding-top: 1rem;
+      width: 70.3125rem;
+      margin: 0 auto;
+      justify-content: center;
+    }
+
+    .twitch {
+      justify-content: space-around;
+    }
+
+    .sorteios {
+      width: 50rem;
+    }
+
+    .about_channel {
+      justify-content: space-between;
+    }
+  
+    .about_me, .intro {
+      display: flex;
+      flex-wrap: wrap;
+      padding-top: 1rem;
+      width: 50.5rem;
+      margin: 0 auto;
+      justify-content: center;
+    }
+
+    .about_me {
+      padding-top: 0;
+      justify-content: flex-start;
+    }
+
+ 
+
+    .think-more {
+      display: flex;
+      width: 70.3125rem;
+      margin: 2rem auto;
+      justify-content: center;
+    }
+  
+    .think-more img {
+      align-self: center;
+    }
+    
+  
+    .partners {
+      flex-direction: row; 
+      justify-content: space-around;
+      align-items: flex-end;
+      width: 100%;  
+      height: 650px;
+      margin-bottom: 10rem;
+    }
+  
+    .personal {
+      display: flex;
+      justify-content: center;
+    }
+  
+    .about_channel, .division, .partners {
+      padding-top: 0;
+    }
+  
+    /* Conteudo Escondido */
+  
+    .video_mobile, .thumb-mobile, .first_menu, .second_menu, .video_tablet, .video_plus{
+      display: none;
+    }
+  
+    /* Divisão */
+  
+    .division {
+      width: 100%;
+      height: 0.4375rem;
+      flex-shrink: 1;
+      flex-wrap: nowrap;
+      background-color: #3C83D7;
+    }
+  
+    /* Container Youtube */
+  
+    .thumb-medium {
+      display: flex;
+    }
+  
+    /* Twitch */
+  
+    .bg-twitch {
+      background-image: url(/img/gerais/tablet/thor-tablet.png);
+      background-size: cover;
+      background-repeat: repeat;
+      width: 100%;
+    }
+
+
+  
+  
+    /* Sorteios */
+  
+    .sorteios {
+      margin-top: 5rem;
+    }
+  
+    .sorteios img {
+      margin: 3.125rem 0 0 0;
+    }
+  
+    /* Ordem de itens gerais */
+  
+    .sorteios {
+      order: 11;
+    }
+  
+    .footer {
+      order: 12;
+    }
+  
+    /* Ordem de itens (PARTNERS) */
+  
+    .dog {
+      order: 0;
+    }
+  
+  
+    .eithor {
+      order: 1;
+      align-self: flex-start;
+    }
+  
+    .origamid {
+      order: 2;
+    }
+  
+      /* Título */
+  
+    .title {
+      font-family: acumin-pro, sans-serif;
+      text-transform: uppercase;
+      color: #32ACF2;
+      font-size: 5rem;
+      font-family: acumin-pro, sans-serif;
+      font-weight: 700;
+      font-style: normal;
+   } 
+  
+    /* Botão padrão */
+  
+    .button {
+      width: 7.5rem;
+      height: 2.5rem;
+      background-color: #4390ED ;
+      border: 1px solid #00D6F4;
+      border-radius: 1.25rem;
+      display: flex;
+      margin-top: 1.875rem;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      font-family: 'Quicksand', sans-serif;
+      font-size: 1rem;
+    }
+
+    .think-more .button {
+      margin-top: 0;
+      margin: 0 1rem;
+      align-self: flex-end;
+    }
+  
+    .button a {
+      color: white;
+      font-family: 'Quicksand', sans-serif;
+      font-size: 1rem;
+    }
+  
+  
+  }

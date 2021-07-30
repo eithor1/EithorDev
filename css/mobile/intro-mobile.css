@@ -1,0 +1,62 @@
+
+@media (max-width: 767px) {
+  
+  /* Ordem Intro */
+
+  .video {
+    position: relative;
+    padding-bottom: 2rem;
+    order: 1;
+  }
+
+  .video_mobile {
+    display: flex;
+  }
+
+  .description_channel {
+    order: 2;
+    margin: 0 0.9375rem;
+  }
+
+  .about_channel p {
+    color: white;
+    font-size: 1.25rem;
+    word-spacing: 0.2rem;
+    margin-bottom: 1.25rem;
+    font-family: 'Quicksand', sans-serif;
+  }
+
+  /* Imagens Intro*/
+
+  .character {
+    width: 13.75rem;
+    height: 12.625rem;
+  }
+
+  .logo {
+    width: 8.125rem;
+    height: 6.625rem;
+    align-self: center;
+  }
+
+  /* Contornos */
+
+  .contorno1 {
+    position: absolute;
+    top: -0.625rem;
+    left: -0.25rem;
+    width: 7.1875rem;
+    height: 7.1875rem;
+  }
+
+  .contorno2 {
+    position: absolute;
+    top: 4.7rem;
+    right: -0.5rem;
+    width: 7.1875rem;
+    height: 7.1875rem;
+  }
+
+
+
+}

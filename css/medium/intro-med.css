@@ -1,0 +1,54 @@
+@media only screen and (min-width: 768px) and (max-width: 992px)  {
+  
+  /* Ordem Intro */
+
+  .video {
+    position: relative;
+    padding-bottom: 2rem;
+    order: 1;
+  }
+
+  .description_channel {
+    order: 2;
+    margin: 0 auto;
+  }
+
+  .about_channel p {
+    color: white;
+    font-size: 1.25rem;
+    word-spacing: 0.2rem;
+    margin-bottom: 1.25rem;
+    font-family: 'Quicksand', sans-serif;
+  }
+
+  /* Imagens Intro */
+
+  .character {
+    width: 22.5rem;
+    height: 18.875rem;
+  }
+
+  .logo {
+    width: 16.875rem;
+    height: 13.8125rem;
+    align-self: center;
+  }
+
+  /* Contorno */
+
+  .contorno1 {
+    position: absolute;
+    top: -17px;
+    /* top: -0.625rem; */
+    left: -10px;
+    /* left: -0.25rem; */
+  }
+
+  .contorno2 {
+    position: absolute;
+    /* top: 12rem; */
+    top: 8.4rem;
+    /* right: -0.9375rem; */
+    right: -0.8rem;
+  }
+}

@@ -1,0 +1,19 @@
+  /* Twitch */
+  @media (max-width: 767px) { 
+
+
+
+  .aovivo {
+    align-self: flex-start;
+    width: 8.125rem;
+    height: 5.0625rem;
+  }
+
+  .twitch-thumb {
+    padding-top: 1.25rem;
+    align-self: center;
+    width: 14.375rem;
+    height: 12.5625rem;
+  }
+
+}
