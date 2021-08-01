@@ -27,4 +27,4 @@ O objetivo deste projeto é clonar o <a href="https://www.cachorro1337.net" targ
 
 ## 🔖 Layout
 
-O layout foi feito utilizando Adobe XD, você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/YJ21RnZoelU6tthwExzMVP/Origin-Six).
+O layout foi feito utilizando Adobe XD, você pode visualizar o layout do projeto através [desse link](https://mega.nz/file/AAgiGSzR#AAptBnRNocCONMCBV8rfdbKZ-QOT_ZYwDX0Z6SqH0io).
