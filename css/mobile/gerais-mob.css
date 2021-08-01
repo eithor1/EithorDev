@@ -61,6 +61,7 @@
     flex-shrink: 1;
     flex-wrap: nowrap;
     background-color: #3C83D7;
+    margin: 0 auto;
   }
 
   /* Container Youtube*/
