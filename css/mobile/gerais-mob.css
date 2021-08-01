@@ -21,8 +21,11 @@
     margin: 0 auto;
     justify-content: center;
   }
-
-
+  
+  .partners {
+    padding-top: 2rem;
+  }
+  
   .think-more {
     display: flex;
     width: 23rem;
