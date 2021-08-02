@@ -7,11 +7,11 @@
 </p>
 
 
-## Desktop
+## 🖥 Desktop
 
 <img src="read-me/desktop.gif" alt="Gif de apresentação do projeto (desktop)">
 
-## Mobile
+## 📱 Mobile
 
 
 <img src="read-me/mobile.gif" alt="Gif de apresentação do projeto (mobile)" align="center">
