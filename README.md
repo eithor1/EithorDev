@@ -25,8 +25,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O objetivo deste projeto é clonar o <a href="https://www.cachorro1337.net" target="_blank">site</a> do youtuber Cachorro1337, utilizando a propriedade flexbox.
+O objetivo deste projeto é clonar o <a href="https://www.cachorro1337.net" target="_blank">site</a> do youtuber Cachorro1337, utilizando a propriedade de CSS flexbox.
 
 ## 🔖 Layout
 
-O layout foi feito utilizando Adobe XD, você pode visualizar o layout do projeto através [desse link](https://mega.nz/file/AAgiGSzR#AAptBnRNocCONMCBV8rfdbKZ-QOT_ZYwDX0Z6SqH0io).
+O layout foi feito utilizando Adobe XD, você pode realizar o download do layout do projeto através [desse link](https://mega.nz/file/AAgiGSzR#AAptBnRNocCONMCBV8rfdbKZ-QOT_ZYwDX0Z6SqH0io).
