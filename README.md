@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O objetivo deste projeto é clonar o <a href="https://www.cachorro1337.net" target="_blank">site</a> do youtuber Cachorro1337, utilizando a propriedade de CSS flexbox.
+O objetivo deste projeto é clonar o <a href="https://www.cachorro1337.net" target="_blank">site</a> do youtuber Cachorro1337, utilizando a propriedade de CSS flexbox. Esse projeto foi apresentando com mais detalhes no canal do <a href="https://www.youtube.com/channel/UC8VNokc61_DddpmwAu-7B6Q">Youtube</a>, caso queira acessar o site clone basta clicar <a href="https://eithordev.netlify.app">aqui</a>.
 
 ## 🔖 Layout
 
